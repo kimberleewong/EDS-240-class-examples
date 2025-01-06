@@ -1,0 +1,6 @@
+---
+title: "Week 1 Discussion"
+author: "Kimmy Wong"
+format: html
+date: 01-06-2025
+---
